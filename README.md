@@ -1,11 +1,10 @@
 # dotnet9-consoleapp-testcontainers-azureservicebus-topic
 Console App criada em .NET 9 para testes com Azure Service Bus + Topics a partir do uso do projeto Testcontainers.
 
-Documentação sobre Testcontainers + Azure Event Hubs: https://testcontainers.com/modules/azure-eventhubs/
+Documentação sobre Testcontainers + Azure Service Bus: https://testcontainers.com/modules/azure-servicebus/Add commentMore actions
 
-Documentação sobre .NET + Testcontainers + Azure Event Hubs: https://dotnet.testcontainers.org/modules/eventhubs/
+Documentação Azure Service Bus emulator:
+- https://learn.microsoft.com/en-us/azure/service-bus-messaging/overview-emulator
+- https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator?tabs=docker-linux-container
 
-Documentação Azure Event Hubs emulator:
-- https://learn.microsoft.com/en-us/azure/event-hubs/overview-emulator
-- https://techcommunity.microsoft.com/blog/messagingonazureblog/introducing-local-emulator-for-azure-event-hubs/4146454
-- https://mcr.microsoft.com/en-us/artifact/mar/azure-messaging/eventhubs-emulator/about
+Exemplos da Microsoft: https://github.com/Azure/azure-service-bus-emulator-installer/tree/main/Sample-Code-Snippets/NET
